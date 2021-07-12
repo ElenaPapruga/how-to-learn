@@ -1,0 +1,26 @@
+/* 3. Блок techniques*/
+
+.techniques {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/*
+.section-title {
+  width: 60%;
+  font-size: 60px;
+  margin: 100px auto 0;
+  line-height: 1.15;
+  font-weight: bold;
+  text-align: center;
+}
+
+.section-subtitle {
+  width: 60%;
+  font-size: 24px;
+  margin: 20px auto 0;
+  line-height: 34px;
+  font-weight: normal;
+  text-align: center;
+}*/

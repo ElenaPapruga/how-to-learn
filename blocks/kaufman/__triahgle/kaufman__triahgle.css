@@ -1,0 +1,22 @@
+.kaufman__triahgle {
+    position: absolute;
+    width: 877px;
+    height: 877px;
+    right: -210px;
+    top: 0;
+    background-size: cover;
+    background-image: url(../images/kaufman-triangle.svg);
+    animation: rotation 20s infinite linear;
+}
+
+/* Повтор селектора @keyframes rotation
+
+@keyframes rotation {
+    0% {
+        transform: rotate(0);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+*/

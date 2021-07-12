@@ -1,0 +1,11 @@
+/* 6. Блок feynman */
+
+.feynman {
+    position: relative;
+    flex-direction: column;
+    display: flex;
+    min-height: 890px;
+    background-color: #f2f2f2;
+    padding-left: 64px;
+    color: black;
+}
