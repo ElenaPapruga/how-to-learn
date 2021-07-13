@@ -1,0 +1,7 @@
+/* повторяющийся селектор .two-columns__main-text*/
+
+.two-columns__main-text {
+    width: 80%;
+    min-width: 784px;
+    color: black;
+}
