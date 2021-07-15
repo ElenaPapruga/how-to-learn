@@ -2,5 +2,4 @@
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
-    object-fit: cover;
 }
