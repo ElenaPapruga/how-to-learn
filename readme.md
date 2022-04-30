@@ -2,6 +2,8 @@
 # Проект 1-2  в Яндекс-Практикуме
 
 # [Посмотреть этот проект](https://elenapapruga.github.io/how-to-learn/)
+* [Посмотреть дизайн в pdf](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
+* [Чек-лист Проекта-2](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-2.pdf)
 
 ## Описание проекта
 Проект направлен на закрепление навыков по Спринту-2.
